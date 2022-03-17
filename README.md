@@ -1,6 +1,7 @@
 ### Ola, eu sou o Alex Maia 👋
 - 🔭 Estou trabalhando como desenvolvedor salesforce
 - 🌱 Estudando React e powerBI
+- Trailhead: https://trailblazer.me/id?lang=pt_BR
 
 <div >
   <a href="https://github.com/AleX-GOM98">
